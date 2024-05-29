@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![](https://leetcard.jacoblin.cool/sagarxD22?ext=heatmap)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sagarboyal&repo=github-readme-stats)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sagarboyal&repo=github-readme-stats)](https://github.com/sagarboyal/sagarboyal)
